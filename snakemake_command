@@ -1,0 +1,1 @@
+snakemake -S Snakefile --use-conda --configfile config.yaml --cluster-config cluster.yaml
